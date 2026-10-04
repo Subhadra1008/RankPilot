@@ -1,0 +1,6 @@
+{
+  "name": "Rank Pilot - AI SEO Rank Tracker & Website Auditor",
+  "description": "Full-stack AI-powered SEO ranking tracker and website audit engine. Analyze websites, track keyword rankings, diagnose technical SEO issues, and outrank competitors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
